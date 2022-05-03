@@ -23,7 +23,7 @@ The file name is the same as the folder name
 ## Warning
 
 It is very inefficient code. 
-Just for study image stitching
+It's just for studying.
 
 Especially, gain_compansation is inefficient.
 You can do it without that part.
