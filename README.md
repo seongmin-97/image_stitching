@@ -8,8 +8,8 @@ python main.py imageFolder
 
 # Requirement
 
-opencv-contrib-python              4.5.5.64 </br>
 opencv-python                      4.5.1.48 </br>
+opencv-contrib-python              4.5.5.64 </br>
 opencv-python-headless             3.4.17.61 </br>
 numpy                              1.20.3 </br>
  </br>
