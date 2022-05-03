@@ -6,6 +6,15 @@
 python main.py imageFolder
 ```
 
+# Requirement
+
+opencv-contrib-python              4.5.5.64
+opencv-python                      4.5.1.48
+opencv-python-headless             3.4.17.61
+numpy                              1.20.3
+
+Openv is used to load and save images and extract feature points.
+
 ## Result
 
 Result image is saved in root folder
