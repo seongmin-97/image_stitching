@@ -22,8 +22,7 @@ The file name is the same as the folder name
 
 ## Warning
 
-It is very inefficient code. 
-It's just for studying.
+- It is very inefficient code. It's just for studying.
 
 Especially, gain_compansation is inefficient.
 You can do it without that part.
@@ -33,6 +32,8 @@ In main.py, use
 ```
 stitching.image_stitching(fname_list, args.dir+'.jpg', NNDR=0.7, trial=500, compansation=False)
 ```
+
+- I used image 320x240, 240x320
 
 ## Example data
 
