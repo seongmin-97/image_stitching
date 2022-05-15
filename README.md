@@ -13,7 +13,7 @@ opencv-contrib-python               4.5.5.64 </br>
 opencv-python-headless              3.4.17.61 </br>
 numpy                               1.20.3 </br>
  </br>
-Openv is used to load and save images and extract feature points.
+OpenCV is used to load and save images and extract feature points.
 
 ## Result
 
